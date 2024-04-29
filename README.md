@@ -27,3 +27,10 @@ A automação deve atender aos seguintes requisitos:
 ● Os resultados devem ser extraídos do JSON e armazenados no banco de
 dados. Posteriormente, os dados armazenados no banco devem ser
 exibidos no console da IDE de desenvolvimento.
+
+## Configuração MySQL
+
+Host: localhost
+Port: 3306
+User: root
+Password: 123456
